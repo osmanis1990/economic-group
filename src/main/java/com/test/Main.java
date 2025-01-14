@@ -9,7 +9,7 @@ public class Main {
                 BasePartnerGroupGenerator.TOTALS[6], BasePartnerGroupGenerator.generatePartners());
         double totalAssetsValue = new CalculateProperties().calculateTotalAssetsValue(companyPartner);
 
-        System.out.println("Valor total dos bens da Empresa A: " + totalAssetsValue);
+        System.out.println("Valor total dos bens: " + totalAssetsValue);
     }
 
 }
