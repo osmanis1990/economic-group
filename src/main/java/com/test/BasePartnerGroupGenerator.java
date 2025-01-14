@@ -1,4 +1,4 @@
-package com.test.entities.utils;
+package com.test;
 
 import com.test.entities.CompanyPartner;
 import com.test.entities.Partner;

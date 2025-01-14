@@ -1,4 +1,4 @@
-package com.test.entities.utils;
+package com.test;
 
 /**
  * Utility class for performing operations related to identification documents such as CPF and CNPJ.

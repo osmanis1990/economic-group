@@ -1,8 +1,6 @@
 package com.test;
 
-import com.test.entities.CalculateProperties;
 import com.test.entities.CompanyPartner;
-import com.test.entities.utils.BasePartnerGroupGenerator;
 
 public class Main {
 

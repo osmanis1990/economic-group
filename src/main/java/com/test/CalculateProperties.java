@@ -1,6 +1,7 @@
-package com.test.entities;
+package com.test;
 
-import com.test.entities.utils.DocumentUtils;
+import com.test.entities.CompanyPartner;
+import com.test.entities.Partner;
 
 import java.math.BigDecimal;
 import java.util.HashSet;

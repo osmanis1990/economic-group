@@ -1,6 +1,7 @@
 package com.test.entities;
 
-import com.test.entities.utils.BasePartnerGroupGenerator;
+import com.test.BasePartnerGroupGenerator;
+import com.test.CalculateProperties;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
